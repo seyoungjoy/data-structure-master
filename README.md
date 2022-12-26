@@ -1,8 +1,10 @@
 # Data Structure Master
 
 ## Big O Notation
-- [bigO 개념](./big-o-notaion/big-o-notaion.md)
+- [bigO](./big-o-notaion/big-o-notaion.md)
 
 ## Sort
-- [bubble sort](./sort/bubble-sort.md)
+- [bubble sort](sort/bubble-sort/bubble-sort.md)
+- [selection sort](sort/selection-sort/selections-sort.md)
+- [insertion sort](sort/insertion-sort/insertion-sort.md)
 
