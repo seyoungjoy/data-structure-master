@@ -18,4 +18,6 @@
 ## Exhaustive Search(완전 탐색)
 - 모든 경우의 수를 체크해서 정답을 찾는 방법
 
-
+## Stack
+- [pointer](stack/pointer.js)
+- [single-linked-list](stack/single-linked-list.js)
